@@ -10,7 +10,9 @@ const server = require('./src/server');
 // const sequelize = new Sequelize(DATABASE_URL);
 
 sequelize.sync()
-  .then(() => {console.log('Successful connection');})
+  .then(() => {
+    console.log('Successful connection');
+  })
   .catch(err => console.error(err));
 
 server.start();
