@@ -11,7 +11,7 @@ Build a REST API using Express, by creating a proper series of endpoints that pe
 ### Links and Resources
 
 - [ci/cd - GitHub Actions](https://github.com/kath-a-rine/basic-api-server/actions)
-- [back-end server url - deployed, but erroring out]
+- [back-end server url - deployed, but erroring out](https://basic-api-server-d47.herokuapp.com/)
 
 ### Setup
 
